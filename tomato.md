@@ -8,3 +8,4 @@
 * Salt
 * Garlic
 * Water
+* Pepper
