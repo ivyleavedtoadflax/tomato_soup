@@ -2,8 +2,9 @@
 
 ## Ingredients
 
-* Tomato
+* Tomato (cherry)
+* Tomato (beef)
 * Onions
 * Salt
 * Garlic
-* Cream
+* Water
