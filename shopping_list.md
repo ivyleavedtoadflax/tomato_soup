@@ -1,3 +1,4 @@
 # Shopping list
 
 * Garlic
+* Pepper
