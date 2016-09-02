@@ -4,4 +4,6 @@
 
 * Tomato
 * Onions
+* Salt
 * Garlic
+* Cream
